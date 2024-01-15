@@ -1,0 +1,2 @@
+All the various plugins I made during the development of Bambi Civilization, primarily consists of minor fixes for other plugins with the minor extra functionality.
+I will provide minimal support for these plugins at the moment.
