@@ -1,4 +1,4 @@
-MTM101 = MTM101 || {}
+var MTM101 = MTM101 || {}
 
 MTM101.EnhancedTitle = []
 
